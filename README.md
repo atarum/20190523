@@ -6,6 +6,7 @@
 ## スライド
 <https://www.slideshare.net/tm1966/presentations>
 
+* code01.ipynb  スライド00:はじめに
 * code01.ipynb  スライド01:Google colaboratory入門
 * code02.ipynb  スライド02:ネットワーク分析・可視化の具体例
 * code03.ipynb  スライド03:ネットワークの特徴量
