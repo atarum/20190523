@@ -16,15 +16,15 @@
 ## ファイル
 
 * README.md	この説明ファイル
-* lesmis.gml	GML形式のネットワークデータ。code01、code02で使用。
-* dolphins.gml	GML形式のネットワークデータ。code01、code02で使用。
-* code01.ipynb  コード01:Google colaboratory入門
+* lesmis.gml	GML形式のネットワークデータ(code01・code02で使用)
+* dolphins.gml	GML形式のネットワークデータ(code01・code02で使用)
+* code01.ipynb  コード01:Google Colaboratory入門
 * code02.ipynb  コード02:ネットワーク分析・可視化の具体例
 * code03.ipynb  コード03:ネットワークの特徴量
 * code04.ipynb  コード04:ネットワークアルゴリズム
 * code05.ipynb  コード05:ネットワーク生成モデル
-* code06.ipynb  コード06ネットワーク上の情報伝搬
+* code06.ipynb  コード06:ネットワーク上の情報伝搬
 
 ## 当日の掲示板
 
-* <https://www.sli.do/>	sli.doのサイト　4桁の数字(当日お知らせします)を入力して使用
+* <https://www.sli.do/>	sli.do	4桁の数字(当日お知らせします)を入力して使用
