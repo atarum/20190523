@@ -13,7 +13,7 @@
 * <https://www.slideshare.net/tm1966/05-20190523-jsai>	スライド05:ネットワーク生成モデル
 * <https://www.slideshare.net/tm1966/06-20190523-jsai>	スライド06:ネットワーク上の情報伝搬
 
-* [スライド00]: https://www.slideshare.net/tm1966/00-20190523-jsai "スライド00:はじめに"
+* [スライド00]: https://www.slideshare.net/tm1966/00-20190523-jsai/ "スライド00:はじめに"
 ## ファイル
 
 * README.md	この説明ファイル
