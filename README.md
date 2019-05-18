@@ -6,14 +6,14 @@
 ## スライド
 
 * <https://www.slideshare.net/tm1966/00-20190523-jsai>	スライド00:はじめに
-* <https://www.slideshare.net/tm1966/01-20190523-jsai>	スライド01:Google colaboratory入門
+* <https://www.slideshare.net/tm1966/01-20190523-jsai>	スライド01:Google Colaboratory入門
 * <https://www.slideshare.net/tm1966/02-20190523-jsai>	スライド02:ネットワーク分析・可視化の具体例
 * <https://www.slideshare.net/tm1966/03-20190523-jsai>	スライド03:ネットワークの特徴量
 * <https://www.slideshare.net/tm1966/04-20190523-jsai>	スライド04:ネットワークアルゴリズム
 * <https://www.slideshare.net/tm1966/05-20190523-jsai>	スライド05:ネットワーク生成モデル
 * <https://www.slideshare.net/tm1966/06-20190523-jsai>	スライド06:ネットワーク上の情報伝搬
 
-## ファイルの説明
+## ファイル
 
 * README.md	この説明ファイル
 * lesmis.gml	GML形式のネットワークデータ。code01、code02で使用。
